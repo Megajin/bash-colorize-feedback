@@ -3,11 +3,6 @@
 #####               This script defines color for messaging                #####
 ################################################################################
 
-# Author: Megajin
-# Github: https://github.com/Megajin
-# Stackoverflow: https://stackoverflow.com/users/4457744/megajin
-# Twitter: https://twitter.com/JustGuni
-
 # Defining colors. You can easily add other colors here.
 RED=31;
 GREEN=32;
